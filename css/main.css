@@ -1,4 +1,27 @@
+body {
+	text-align: center;
+	background-color: #D3D3D3;
+	font-family: Tahoma, Geneva, sans-serif;
+}
 #main {
+	margin-top: 35px;
 	width: 100%;
 	text-align: center;
+}
+#entry {
+	width: 350px;
+	padding: 10px;
+	font-size: 14px;
+}
+button {
+	padding: 5px 10px 5px 10px;
+	background-color: #006400;
+	color: #FFFFFF;
+	font-size: 15px;
+}
+.title {
+	color: #006400;
+	font-size: 45px;
+	font-weight: bold;
+	padding-bottom: 20px;
 }
